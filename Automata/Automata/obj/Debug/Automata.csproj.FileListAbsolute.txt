@@ -1,0 +1,10 @@
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\obj\Debug\Automata.csprojResolveAssemblyReference.cache
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\Yo\Documents\Tareas tese\7\Inteligencia Artificial\Automata\Automata\obj\Debug\Automata.pdb
